@@ -1,7 +1,19 @@
 {
   "name": "@and-end/linkedin-auth-client",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple client for authentication using LinkedIn",
+  "keywords": [
+    "linkedin",
+    "linkedin-api",
+    "authentication",
+    "authorization",
+    "oauth2",
+    "auth",
+    "auth-client",
+    "auth-wrapper",
+    "api-client",
+    "api-wrapper"
+  ],
   "main": "dist/index.umd.js",
   "types": "types/index.d.ts",
   "module": "dist/index.js",
