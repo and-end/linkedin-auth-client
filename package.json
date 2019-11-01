@@ -1,6 +1,6 @@
 {
   "name": "@and-end/linkedin-auth-client",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A simple client for authentication using LinkedIn",
   "keywords": [
     "linkedin",

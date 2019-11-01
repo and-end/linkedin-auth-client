@@ -1,7 +1,7 @@
 <h1 align='center'>
   <br>
   <a align='center' href='https://docs.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin/consumer/context'>
-    <img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='LinkedIn Logo' width='75' />
+    <img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='LinkedIn Logo' width='75' align='center' />
   </a>
   <p align='center'>LinkedIn auth client</p>
 </h1>
